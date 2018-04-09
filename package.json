@@ -2,7 +2,7 @@
   "name": "@dvhb/webpack",
   "description": "dvhb starter kit for project",
   "homepage": "https://github.com/dvhb/webpack.git",
-  "version": "1.6.6",
+  "version": "1.6.7-beta.1",
   "author": {
     "name": "Aleksey Subbotenko",
     "url": "https://dvhb.ru/"
@@ -39,15 +39,15 @@
     "not ie < 9"
   ],
   "dependencies": {
-    "@babel/core": "7.0.0-beta.32",
-    "@babel/preset-env": "7.0.0-beta.32",
-    "@babel/preset-flow": "7.0.0-beta.32",
-    "@babel/preset-react": "7.0.0-beta.32",
-    "@babel/preset-stage-2": "7.0.0-beta.32",
-    "@babel/register": "^7.0.0-beta.32",
-    "@dvhb/eslint-config": "*",
-    "babel-eslint": "^8.0.2",
+    "@babel/core": "^7.0.0-beta.44",
+    "@babel/preset-env": "^7.0.0-beta.44",
+    "@babel/preset-flow": "^7.0.0-beta.44",
+    "@babel/preset-react": "^7.0.0-beta.44",
+    "@babel/preset-stage-2": "^7.0.0-beta.44",
+    "@babel/register": "^7.0.0-beta.44",
+    "babel-eslint": "^8.2.2",
     "babel-loader": "8.0.0-beta.0",
+    "@dvhb/eslint-config": "*",
     "babel-plugin-lodash": "^3.3.2",
     "caniuse-lite": "^1.0.30000784",
     "chalk": "1.1.3",
